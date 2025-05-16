@@ -12,5 +12,9 @@ if __name__ == "__main__":
     experiment.add_supervisor(supervisor)
 
 
+<<<<<<< HEAD
     print(experiment)
     
+=======
+    print(experiment)
+>>>>>>> 17a0fed (Beschreibe deine Änderungen hier)
